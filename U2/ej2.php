@@ -12,8 +12,8 @@
 
   echo "Nombre: " .$nombre ."<br/>";
   echo "Apellidos: " .$apellidos."<br/>";
-  echo "<br/><img src='foto.png' alt='img'>";
-
+  echo "<br/><img src='foto.png' alt='img'>"."<br/>";
+  echo "<br/>"
 ?>
 
-<a href=https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/blob/main/U2/ej2.php>Código Github</a>
+<b>Repositorio: </b><a href=https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/blob/main/U2/ej2.php>Código Github</a>
