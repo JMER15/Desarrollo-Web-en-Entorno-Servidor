@@ -1,0 +1,27 @@
+table{
+    border: 1px solid rgb(23, 201, 23);
+    margin: 5px;
+}
+
+td{
+    border: 1px solid rgba(0, 153, 255, 0.492);
+    text-align: center;
+    width: 5em;
+    background-color: rgb(248, 240, 240);
+}
+
+input{
+    width: 4em;
+}
+
+.acierto{
+    border: 2px solid rgb(7, 150, 24);
+}
+
+.fallo{
+    border: 2px solid rgb(235, 17, 22);
+}
+
+.cabecera {
+    font-weight: bold;
+}
