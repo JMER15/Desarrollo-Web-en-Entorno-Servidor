@@ -83,7 +83,7 @@ $carta = array(
     echo "<b>Precio con el 20% de descuento del menú: " . $PrecioMenuDescuento . " euros.<br/></b>";
     ?>
     <div id="derecha">
-        <b>Repositorio: </b> <a href=faltasubirloagithub>Código Github</a>
+        <b>Repositorio: </b> <a href=https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/blob/main/U3/arrays/ejercicio4.php>Código Github</a>
     </div>
 
 </body>

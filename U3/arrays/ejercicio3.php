@@ -32,6 +32,7 @@
 
         // guardamos en el array todo 0 que seria el tablero sin los barcos; si queremos poner un barco el 0 pasaria a 1
     );
+    
     // Tablero para jugar al juego de los barcos
     $aTablero2 = array(
 
@@ -45,8 +46,6 @@
         array(0,0,0,0,0,0,0,0,0,0),
         array(0,0,0,0,0,0,0,0,0,0),
         array(0,0,0,0,0,0,0,0,0,0),
-
-        // guardamos en el array todo 0 que seria el tablero sin los barcos; si queremos poner un barco el 0 pasaria a 1
         
     );
         
@@ -134,5 +133,7 @@
         ),
 
     );
+
+    echo "<b>Repositorio: </b> <a href=https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/blob/main/U3/arrays/ejercicio3.php>Código Github</a>"
 
 ?>

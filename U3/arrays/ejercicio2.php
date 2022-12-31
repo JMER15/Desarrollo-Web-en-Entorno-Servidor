@@ -1,5 +1,4 @@
 <?php
-
 /**
  * 2. Crear un array con los alumnos de clase y permitir la selección aleatoria de uno de ellos. El resultado
  * debe mostrar nombre y fotografía.
@@ -47,7 +46,7 @@ $aleatorio = rand(0, (count($aAlumnos)-1)); // random desde 0 hasta la longitud 
     ?>
 
     <br/>
-    <b>Repositorio: </b> <a href=faltasubirloagithub>Código Github</a>
+    <b>Repositorio: </b> <a href=https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/blob/main/U3/arrays/ejercicio2.php>Código Github</a>
 </body>
 
 </html>

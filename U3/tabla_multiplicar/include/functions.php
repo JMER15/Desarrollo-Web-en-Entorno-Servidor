@@ -1,9 +1,8 @@
 <?php
-
 /**
  * 
+ * @author josemi
  */
-
  function existeCoordenada ($fila,$columna,$array) : bool 
  {
     $lExiste = false;
