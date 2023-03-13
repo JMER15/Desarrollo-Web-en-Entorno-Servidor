@@ -7,12 +7,6 @@
  * 
  */
 
-// $ejercicio1 = array("Título" => "Hola Mundo", 
-// "Descripcion" => "Mi primer Script en PHP",
-// "Enlace"=>"U2/ejercicio1.php",
-// "Tags" => "Primer Script"
-// );
-
 $aEjercicios = array(
 
     "Tema 1" => array(
@@ -155,3 +149,89 @@ foreach ($aEjercicios as $tema => $value) {
     }
     echo "<br/>";
 }
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Tema 3</h1>
+
+    <h2>Bucles</h2>
+    <h3><a href="U3/bucles/ejercicio1.php">Ejercicio 1</a></h3>
+    <h3><a href="U3/bucles/ejercicio2.php">Ejercicio 2</a></h3>
+    <h3><a href="U3/bucles/ejercicio3.php">Ejercicio 3</a></h3>
+    <h3><a href="U3/bucles/ejercicio4.php">Ejercicio 4</a></h3>
+    <h3><a href="U3/bucles/ejercicio4-2.php">Ejercicio 4-2</a></h3>
+    <h3><a href="U3/bucles/calendario1.php">Calendario 1</a></h3>
+
+    <h2>Arrays</h2>
+    <h3><a href="U3/arrays/ejercicio1.php">Ejercicio 1</a></h3>
+    <h3><a href="U3/arrays/ejercicio2.php">Ejercicio 2</a></h3>
+    <h3><a href="U3/arrays/ejercicio3.php">Ejercicio 3</a></h3>
+    <h3><a href="U3/arrays/ejercicio4.php">Ejercicio 4</a></h3>
+    <h3><a href="U3/arrays/calendario2.php">Calendario 2</a></h3>
+    <br>
+    <h2>Condicionales</h2>
+    <h3><a href="U3/condicionales/ejercicio1.php">Ejercicio 1</a></h3>
+    <h3><a href="U3/condicionales/ejercicio2.php">Ejercicio 2</a></h3>
+    <h3><a href="U3/condicionales/ejercicio3.php">Ejercicio 3</a></h3>
+    <h3><a href="U3/condicionales/ejercicio4.php">Ejercicio 4</a></h3>
+    <h3><a href="U3/condicionales/ejercicio5.php">Ejercicio 5</a></h3>
+
+    <h2>Verbos Irregulares</h2>
+    <h3><a href="U3/verbos_irregulares/">Verbos Irregulares</a></h3>
+
+    <h2>Tabla de Multiplicar</h2>
+    <h3><a href="U3/tabla_multiplicar/">Tabla de multiplicar</a></h3>
+
+    <h1>Tema 4</h1>
+
+    <h2>Cookies</h2>
+    <h3><a href="U4/cookies/">Cookies</a></h3>
+
+    <h2>Ficheros</h2>
+    <h3><a href="U4/ficheros/">Ficheros</a></h3>
+
+    <h2>Sesiones</h2>
+    <h3><a href="U4/sesiones/">Sesiones</a></h3>
+
+    <h2>Sesiones</h2>
+    <h3><a href="U4/autentication/">Autenticacion</a></h3>
+
+    <h1>Tema 5</h1>
+    <h2>POO</h2>
+    <h3><a href="U5/mascotas/">POO</a></h3>
+
+    <h1>Tema 6</h1>
+    <h2>Bases de Datos</h2>
+    <h3><a href="https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/tree/main/U6">Bases de Datos</a></h3>
+
+    <h1>Tema 7</h1>
+    <h2>MVC</h2>
+    <h3><a href="https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/tree/main/U7">MVC</a></h3>
+
+    <h1>Tema 8</h1>
+    <h2>Api Contactos-app</h2>
+    <h3><a href="https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/tree/main/U8">Api contactos</a></h3>
+
+    <h1>Tema 9</h1>
+    <h2>Api Contactos-app Con cliente</h2>
+    <h3><a href="https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/tree/main/U9/ContactosApp">Api contactos-cliente</a></h3>
+
+    <h2>Api Contactos-app Con cliente-laravel</h2>
+    <h3><a href="https://github.com/JMER15/Api-Contactos-Cliente-Angular">Api contactos-cliente-laravel</a></h3>
+
+    <h1>Tema 10</h1>
+    <h2>Symblog</h2>
+    <h3><a href="https://github.com/JMER15/Desarrollo-Web-en-Entorno-Servidor/tree/main/U10/SymblogApp">SymblogApp</a></h3>
+
+</body>
+</html>
